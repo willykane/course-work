@@ -34,7 +34,6 @@ int main() {
         fineAmount = fineRate * overdueDays;
     }
 
-    // Display the fine rate, fine amount, and overdue days
     cout << "The fine rate is: Ksh " << fineRate << " per day" << endl;
 
     cout << "The fine amount is: Ksh " << fineAmount << endl;
