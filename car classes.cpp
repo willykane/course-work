@@ -1,4 +1,4 @@
-/*
+/* code to show use of classes in c++
 
 AUTHOR:WILLYCE OJWANG GWARA 
  REG NO: BSE-05-0044/2024 */
