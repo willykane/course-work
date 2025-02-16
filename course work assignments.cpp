@@ -1,3 +1,7 @@
+/* a simple program to show elligiblity of voters to vote by age 
+ AUTHOR:WILLYCE OJWANG GWARA 
+ REG NO: BSE-05-0044/2024 */
+
 #include <iostream>
 using namespace std;
 #include <string>
