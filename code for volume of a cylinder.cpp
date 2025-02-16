@@ -1,3 +1,10 @@
+/* simple code to calculate volume of a cylinder 
+
+AUTHOR:WILLYCE OJWANG GWARA
+REG NO: BSE-05-0044/2024 */
+
+
+
 #include <iostream>
 #include <cmath>
 using namespace std;
