@@ -45,7 +45,7 @@ public:
 };
 
 int main() {
-    PremiumMember pm("willyce", 101, 5, 50.0);
+    PremiumMember pm("willyce", 1564213, 3, 100.0);
 
     cout << "Name: " << pm.getName() << endl;
     cout << "Member ID: " << pm.getMemberID() << endl;
